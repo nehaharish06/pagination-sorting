@@ -1,24 +1,11 @@
-# Welcome to your Lovable project
+# Paginarion And Sorting
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/d6cdad38-a1a3-41dd-8f05-6b4bcf06929f
+In our full-stack book management application, we want to provide users with the ability to paginate through the list of books and sort them based on specific criteria. To achieve this, we need to enhance our API endpoints to support query parameters for pagination, page size, and sorting.
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/d6cdad38-a1a3-41dd-8f05-6b4bcf06929f) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
@@ -62,12 +49,4 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/d6cdad38-a1a3-41dd-8f05-6b4bcf06929f) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
